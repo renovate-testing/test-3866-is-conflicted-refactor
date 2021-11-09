@@ -5,7 +5,7 @@
         <groupId>org.apache.lucene</groupId>
         <artifactId>lucene-queries</artifactId>
         <version>
-          8.0.1
+          8.10.1
         </version>
     </dependency>
   </dependencies>
